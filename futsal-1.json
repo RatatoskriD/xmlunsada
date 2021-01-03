@@ -1,10 +1,10 @@
 [{
-        "Wilayah": "Cengkareng",
-        "Nama": "Futsal Centrol Cengkareng",
+        "Wilayah": "Lubang Buaya",
+        "Nama": "Futsal East Jakarta",
         "Image": "https://tempat.com/blog/wp-content/uploads/2019/07/lapanagan-futsal-Elang-futsal-jakarta-1-1024x514.jpg",
-        "Lokasi": "Jl.Lingkar Luar No.9A",
-        "Open": "Meowsy",
-        "NoTlp": "008811233",
+        "Lokasi": "Jl. Lubang Buaya, RT.5/RW.2, Lubang Buaya, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13810",
+        "Open": "8AM–12AM",
+        "NoTlp": "+622187794423",
         "HargaSewa": {
             "SnnJmt": ["(07.00 - 13.00) Harga", "(13.00 - 16.00) Harga", "(16.00 - 24.00) Harga"],
             "SbMg": ["(07.00 - 13.00) Harga", "(13.00 - 16.00) Harga", "(16.00 - 24.00) Harga"]
@@ -23,6 +23,7 @@
             "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
 
         }
+            
     },
     {
         "Wilayah": "Cengkareng",
