@@ -17,7 +17,12 @@
         "Image": "https://4.bp.blogspot.com/-wEZD4eSayYI/Vl_A7S1xhDI/AAAAAAAALPw/KFcFEmo2M4c/s1600/IMG_7868.JPG",
         "Lokasi": "Jl. Kemuning Raya, RT.1/RW.11, Cengkareng Bar., Kecamatan Cengkareng, Kota Jakarta Barat",
         "Open": "Meowsy",
-        "NoTlp": "0088133333"
+        "NoTlp": "0088133333",
+        "HargaSewa": {
+            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
+            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+
+        }
     },
     {
         "Wilayah": "Cengkareng",
@@ -25,7 +30,12 @@
         "Image": "https://cdn-2.tstatic.net/banjarmasin/foto/bank/images/upik-futsal_20180927_193238.jpg",
         "Lokasi": "Jl. Setia Raya No.14, RT.1/RW.16, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat",
         "Open": "Meowsy",
-        "NoTlp": "00881233333"
+        "NoTlp": "00881233333",
+        "HargaSewa": {
+            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
+            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+
+        }
     },
     {
         "Wilayah": "Cengkareng",
@@ -33,7 +43,12 @@
         "Image": "https://3.bp.blogspot.com/-q_RDWrI7COY/VmfRyOBYmGI/AAAAAAAALZE/soYFcAGaXNk/s1600/Lapangan%2BFutsal%2BJakarta%2BSelatan.jpg",
         "Lokasi": "Jl. 11, RT.11/RW.12, Cengkareng Tim., Kecamatan Cengkareng, Kota Jakarta Barat",
         "Open": "Meowsy",
-        "NoTlp": "0856-5708-81611"
+        "NoTlp": "0856-5708-81611",
+        "HargaSewa": {
+            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
+            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+
+        }
     },
     {
         "Wilayah": "Cengkareng",
@@ -41,7 +56,12 @@
         "Image": "https://1.bp.blogspot.com/_QB6zWg3fZBY/SXg1Twx7fDI/AAAAAAAAABY/ExpLVJanESM/w1200-h630-p-k-no-nu/Lapangan-Futsal+1.jpg",
         "Lokasi": "Jl. H. Djairi No.1S, RT.5/RW.2, Rw. Buaya, Kecamatan Cengkareng, Kota Jakarta Barat",
         "Open": "08.00-22.00",
-        "NoTlp": "(021)-54381090"
+        "NoTlp": "(021)-54381090",
+        "HargaSewa": {
+            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
+            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+
+        }
     }
 
 
