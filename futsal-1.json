@@ -1,290 +1,273 @@
 [{
-        "Wilayah": "Lubang Buaya",
-        "Nama": "Futsal East Jakarta",
-        "Image": "https://tempat.com/blog/wp-content/uploads/2019/07/lapanagan-futsal-Elang-futsal-jakarta-1-1024x514.jpg",
-        "Lokasi": "Jl. Lubang Buaya, RT.5/RW.2, Lubang Buaya, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13810",
-        "Open": "8AM–12AM",
-        "NoTlp": "+622187794423",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 13.00) Harga", "(13.00 - 16.00) Harga", "(16.00 - 24.00) Harga"],
-            "SbMg": ["(07.00 - 13.00) Harga", "(13.00 - 16.00) Harga", "(16.00 - 24.00) Harga"]
+		"Wilayah": "Lubang Buaya",
+		"Nama": "Futsal East Jakarta",
+		"Image": "https://tempat.com/blog/wp-content/uploads/2019/07/lapanagan-futsal-Elang-futsal-jakarta-1-1024x514.jpg",
+		"Lokasi": "Jl. Lubang Buaya, RT.5/RW.2, Lubang Buaya, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13810",
+		"Open": "8AM–12AM",
+		"NoTlp": "+622187794423",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 13.00) Harga", "(13.00 - 16.00) Harga", "(16.00 - 24.00) Harga"],
+			"SbMg": ["(07.00 - 13.00) Harga", "(13.00 - 16.00) Harga", "(16.00 - 24.00) Harga"]
 
-        }
-    },
-    {
-        "Wilayah": "Cengkareng",
-        "Nama": "Viva Futsal Cengkareng",
-        "Image": "https://4.bp.blogspot.com/-wEZD4eSayYI/Vl_A7S1xhDI/AAAAAAAALPw/KFcFEmo2M4c/s1600/IMG_7868.JPG",
-        "Lokasi": "Jl. Kemuning Raya, RT.1/RW.11, Cengkareng Bar., Kecamatan Cengkareng, Kota Jakarta Barat",
-        "Open": "Meowsy",
-        "NoTlp": "0088133333",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
-            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+		}
+	},
+	{
+		"Wilayah": "Cengkareng",
+		"Nama": "Viva Futsal Cengkareng",
+		"Image": "https://4.bp.blogspot.com/-wEZD4eSayYI/Vl_A7S1xhDI/AAAAAAAALPw/KFcFEmo2M4c/s1600/IMG_7868.JPG",
+		"Lokasi": "Jl. Kemuning Raya, RT.1/RW.11, Cengkareng Bar., Kecamatan Cengkareng, Kota Jakarta Barat",
+		"Open": "Meowsy",
+		"NoTlp": "0088133333",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
+			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
 
-        }
-            
-    },
-    {
-        "Wilayah": "Cengkareng",
-        "Nama": "Lapangan Serbaguna Pintuseng",
-        "Image": "https://cdn-2.tstatic.net/banjarmasin/foto/bank/images/upik-futsal_20180927_193238.jpg",
-        "Lokasi": "Jl. Setia Raya No.14, RT.1/RW.16, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat",
-        "Open": "Meowsy",
-        "NoTlp": "00881233333",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
-            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+		}
 
-        }
-    },
-    {
-        "Wilayah": "Cengkareng",
-        "Nama": "Lapangan Futsal Puspa V",
-        "Image": "https://3.bp.blogspot.com/-q_RDWrI7COY/VmfRyOBYmGI/AAAAAAAALZE/soYFcAGaXNk/s1600/Lapangan%2BFutsal%2BJakarta%2BSelatan.jpg",
-        "Lokasi": "Jl. 11, RT.11/RW.12, Cengkareng Tim., Kecamatan Cengkareng, Kota Jakarta Barat",
-        "Open": "Meowsy",
-        "NoTlp": "0856-5708-81611",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
-            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+	},
+	{
+		"Wilayah": "Cengkareng",
+		"Nama": "Lapangan Serbaguna Pintuseng",
+		"Image": "https://cdn-2.tstatic.net/banjarmasin/foto/bank/images/upik-futsal_20180927_193238.jpg",
+		"Lokasi": "Jl. Setia Raya No.14, RT.1/RW.16, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat",
+		"Open": "Meowsy",
+		"NoTlp": "00881233333",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
+			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
 
-        }
-    },
-    {
-        "Wilayah": "Cengkareng",
-        "Nama": "MD FUTSAL",
-        "Image": "https://1.bp.blogspot.com/_QB6zWg3fZBY/SXg1Twx7fDI/AAAAAAAAABY/ExpLVJanESM/w1200-h630-p-k-no-nu/Lapangan-Futsal+1.jpg",
-        "Lokasi": "Jl. H. Djairi No.1S, RT.5/RW.2, Rw. Buaya, Kecamatan Cengkareng, Kota Jakarta Barat",
-        "Open": "08.00-22.00",
-        "NoTlp": "(021)-54381090",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"],
-            "SbMg": ["(07.00 - 15.00) Harga",  "(15.00 - 24.00) Harga"]
+		}
+	},
+	{
+		"Wilayah": "Cengkareng",
+		"Nama": "Lapangan Futsal Puspa V",
+		"Image": "https://3.bp.blogspot.com/-q_RDWrI7COY/VmfRyOBYmGI/AAAAAAAALZE/soYFcAGaXNk/s1600/Lapangan%2BFutsal%2BJakarta%2BSelatan.jpg",
+		"Lokasi": "Jl. 11, RT.11/RW.12, Cengkareng Tim., Kecamatan Cengkareng, Kota Jakarta Barat",
+		"Open": "Meowsy",
+		"NoTlp": "0856-5708-81611",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
+			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Makasar",
-        "Nama": "Halim Futsal & Badminton",
-        "Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/ojiypk/field/FIBO_FiIm_ojiypk_b6TGTF.jpg",
-        "Lokasi": "Jl. Raya Pd. Gede No.3, RW.3, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur",
-        "Open": "07.00-23.00",
-        "NoTlp": "085100922747",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 23.00) Harga",  "(07.00 - 23.00) Harga"],
-            "SbMg": ["(07.00 - 23.00) Harga",  "(07.00 - 23.00) Harga"]
+		}
+	},
+	{
+		"Wilayah": "Cengkareng",
+		"Nama": "MD FUTSAL",
+		"Image": "https://1.bp.blogspot.com/_QB6zWg3fZBY/SXg1Twx7fDI/AAAAAAAAABY/ExpLVJanESM/w1200-h630-p-k-no-nu/Lapangan-Futsal+1.jpg",
+		"Lokasi": "Jl. H. Djairi No.1S, RT.5/RW.2, Rw. Buaya, Kecamatan Cengkareng, Kota Jakarta Barat",
+		"Open": "08.00-22.00",
+		"NoTlp": "(021)-54381090",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
+			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Jatinegara",
-        "Nama": "Goedang Futsal",
-        "Image": "https://lh3.googleusercontent.com/OWQr0PTmyO2UNsHzAUV6rR2dWNVjivVx_rX9qtz0VaGxwY5KS3GDVNQlwNYOkxjiv3EAC3KG_NxbL2pG=w960-h960-n-o-v1",
-        "Lokasi": "Jl. Inspeksi Saluran Kali Malang No.3A, RT.1/RW.1, Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur",
-        "Open": "08.00-24.00",
-        "NoTlp": "(021) 8509394",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"],
-            "SbMg": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Makasar",
+		"Nama": "Halim Futsal & Badminton",
+		"Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/ojiypk/field/FIBO_FiIm_ojiypk_b6TGTF.jpg",
+		"Lokasi": "Jl. Raya Pd. Gede No.3, RW.3, Halim Perdana Kusumah, Kec. Makasar, Kota Jakarta Timur",
+		"Open": "07.00-23.00",
+		"NoTlp": "085100922747",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 23.00) Harga", "(07.00 - 23.00) Harga"],
+			"SbMg": ["(07.00 - 23.00) Harga", "(07.00 - 23.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Kramat Jati",
-        "Nama": "Best Futsal Sport Center",
-        "Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/zpxden/field/FIBO_FiIm_zpxden_Y2ynqZ.jpg",
-        "Lokasi": "Jl. Raya Condet No.3, RT.10/RW.6, Batu Ampar, Kec. Kramat jati, Kota Jakarta Timur",
-        "Open": "09.00-22.00",
-        "NoTlp": "(021) 80872676",
-        "HargaSewa": {
-            "SnnJmt": ["(09.00 - 22.00) Harga",  "(09.00 - 22.00) Harga"],
-            "SbMg": ["(09.00 - 22.00) Harga",  "(09.00 - 22.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Jatinegara",
+		"Nama": "Goedang Futsal",
+		"Image": "https://lh3.googleusercontent.com/OWQr0PTmyO2UNsHzAUV6rR2dWNVjivVx_rX9qtz0VaGxwY5KS3GDVNQlwNYOkxjiv3EAC3KG_NxbL2pG=w960-h960-n-o-v1",
+		"Lokasi": "Jl. Inspeksi Saluran Kali Malang No.3A, RT.1/RW.1, Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur",
+		"Open": "08.00-24.00",
+		"NoTlp": "(021) 8509394",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
+			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Pasar Rebo",
-        "Nama": "Lapangan Futsal 4D",
-        "Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/uzlave/field/FIBO_FiIm_uzlave_kfbvaG.jpg",
-        "Lokasi": "Jl. Raya Bogor KM.28 No.16, Pekayon, Pasarrebo, RT.4/RW.7, Pekayon, Kota Jakarta Timur",
-        "Open": "09.00-23.00",
-        "NoTlp": "(021) 8724732",
-        "HargaSewa": {
-            "SnnJmt": ["(09.00 - 23.00) Harga",  "(09.00 - 23.00) Harga"],
-            "SbMg": ["(09.00 - 23.00) Harga",  "(09.00 - 23.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Kramat Jati",
+		"Nama": "Best Futsal Sport Center",
+		"Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/zpxden/field/FIBO_FiIm_zpxden_Y2ynqZ.jpg",
+		"Lokasi": "Jl. Raya Condet No.3, RT.10/RW.6, Batu Ampar, Kec. Kramat jati, Kota Jakarta Timur",
+		"Open": "09.00-22.00",
+		"NoTlp": "(021) 80872676",
+		"HargaSewa": {
+			"SnnJmt": ["(09.00 - 22.00) Harga", "(09.00 - 22.00) Harga"],
+			"SbMg": ["(09.00 - 22.00) Harga", "(09.00 - 22.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Kramat Jati",
-        "Nama": "JR Futsal",
-        "Image": "https://fastly.4sqi.net/img/general/200x200/48163844_xcRObwtD2aR_XOSWW_ktyA15gEG-LgxFPvFL1gOplAQ.jpg",
-        "Lokasi": "Jl. Raya Inpres No.35, RT.2/RW.3, Kramat Jati, Jakarta Timur, Kota Jakarta Timur",
-        "Open": "08.00-24.00",
-        "NoTlp": "0838-0890-7281",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"],
-            "SbMg": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Pasar Rebo",
+		"Nama": "Lapangan Futsal 4D",
+		"Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/uzlave/field/FIBO_FiIm_uzlave_kfbvaG.jpg",
+		"Lokasi": "Jl. Raya Bogor KM.28 No.16, Pekayon, Pasarrebo, RT.4/RW.7, Pekayon, Kota Jakarta Timur",
+		"Open": "09.00-23.00",
+		"NoTlp": "(021) 8724732",
+		"HargaSewa": {
+			"SnnJmt": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"],
+			"SbMg": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Duren Sawit",
-        "Nama": "Futsal Tifosi",
-        "Image": "https://3.bp.blogspot.com/-C0mwMMjzUqs/VnjLPlYwgqI/AAAAAAAALkY/BjyZtedNbpo/s400/C360_2015-12-04-19-13-37-314.jpg",
-        "Lokasi": "Jl. Raden Inten II No.30, RT.1/RW.5, Duren Sawit, Kec. Duren Sawit, Kota Jakarta Timur",
-        "Open": "09.00-23.00",
-        "NoTlp": "(021) 8626087",
-        "HargaSewa": {
-            "SnnJmt": ["(09.00 - 23.00) Harga",  "(09.00 - 23.00) Harga"],
-            "SbMg": ["(09.00 - 23.00) Harga",  "(09.00 - 23.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Kramat Jati",
+		"Nama": "JR Futsal",
+		"Image": "https://fastly.4sqi.net/img/general/200x200/48163844_xcRObwtD2aR_XOSWW_ktyA15gEG-LgxFPvFL1gOplAQ.jpg",
+		"Lokasi": "Jl. Raya Inpres No.35, RT.2/RW.3, Kramat Jati, Jakarta Timur, Kota Jakarta Timur",
+		"Open": "08.00-24.00",
+		"NoTlp": "0838-0890-7281",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
+			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Duren Sawit",
-        "Nama": "Arena Silma",
-        "Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/ktolsk/field/FIBO_FiIm_ktolsk_pE8uLB.jpg",
-        "Lokasi": "Jl. Dermaga Raya No.322, RT.5/RW.5, Klender, Duren Sawit, RT.5/RW.5, Klender, Kec. Duren Sawit, Kota Jakarta Timur",
-        "Open": "08.00-24.00",
-        "NoTlp": "(021) 51205029",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"],
-            "SbMg": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Duren Sawit",
+		"Nama": "Futsal Tifosi",
+		"Image": "https://3.bp.blogspot.com/-C0mwMMjzUqs/VnjLPlYwgqI/AAAAAAAALkY/BjyZtedNbpo/s400/C360_2015-12-04-19-13-37-314.jpg",
+		"Lokasi": "Jl. Raden Inten II No.30, RT.1/RW.5, Duren Sawit, Kec. Duren Sawit, Kota Jakarta Timur",
+		"Open": "09.00-23.00",
+		"NoTlp": "(021) 8626087",
+		"HargaSewa": {
+			"SnnJmt": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"],
+			"SbMg": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Cipayung",
-        "Nama": "Malaka Futsal",
-        "Image": "https://fastly.4sqi.net/img/general/200x200/18192354_mgBKRhW4wRiNALpo_keHh2agRkXmZMunV2qmjXKRMqA.jpg",
-        "Lokasi": "Jl. Malaka No.9, RT.4/RW.5, Cilangkap, Kec. Cipayung, Kota Jakarta Timur",
-        "Open": "08.00-24.00",
-        "NoTlp": "(021) 91274124",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"],
-            "SbMg": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Duren Sawit",
+		"Nama": "Arena Silma",
+		"Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/ktolsk/field/FIBO_FiIm_ktolsk_pE8uLB.jpg",
+		"Lokasi": "Jl. Dermaga Raya No.322, RT.5/RW.5, Klender, Duren Sawit, RT.5/RW.5, Klender, Kec. Duren Sawit, Kota Jakarta Timur",
+		"Open": "08.00-24.00",
+		"NoTlp": "(021) 51205029",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
+			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Kebayoran Lama",
-        "Nama": "MY FUTSAL",
-        "Image": "https://lh3.googleusercontent.com/p/AF1QipNUdUHLfwXFMDO5OPPb7JFJv-YamGMg1BNsgtx_=s1280-p-no-v1",
-        "Lokasi": "Jl. Komp. Hankam Cidodol No.17B, RT.10/RW.11, Grogol Sel., Kec. Kby. Lama, Kota Jakarta Selatan",
-        "Open": "08.00-23.00",
-        "NoTlp": "(021) 7263030",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 23.00) Harga",  "(08.00 - 23.00) Harga"],
-            "SbMg": ["(08.00 - 23.00) Harga",  "(08.00 - 23.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Cipayung",
+		"Nama": "Malaka Futsal",
+		"Image": "https://fastly.4sqi.net/img/general/200x200/18192354_mgBKRhW4wRiNALpo_keHh2agRkXmZMunV2qmjXKRMqA.jpg",
+		"Lokasi": "Jl. Malaka No.9, RT.4/RW.5, Cilangkap, Kec. Cipayung, Kota Jakarta Timur",
+		"Open": "08.00-24.00",
+		"NoTlp": "(021) 91274124",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
+			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Setiabudi",
-        "Nama": "Planet Futsal",
-        "Image": "http://www.theplanetfutsal.com/images/stories/fotoabout.jpg",
-        "Lokasi": "Kompleks Rasuna Epicentrum Kav. C-22, Jl. H. R. Rasuna Said, RT.2/RW.5, Karet Kuningan, Kota Jakarta Selatan",
-        "Open": "08.00-24.00",
-        "NoTlp": "(021) 52920765",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"],
-            "SbMg": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Kebayoran Lama",
+		"Nama": "MY FUTSAL",
+		"Image": "https://lh3.googleusercontent.com/p/AF1QipNUdUHLfwXFMDO5OPPb7JFJv-YamGMg1BNsgtx_=s1280-p-no-v1",
+		"Lokasi": "Jl. Komp. Hankam Cidodol No.17B, RT.10/RW.11, Grogol Sel., Kec. Kby. Lama, Kota Jakarta Selatan",
+		"Open": "08.00-23.00",
+		"NoTlp": "(021) 7263030",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 23.00) Harga", "(08.00 - 23.00) Harga"],
+			"SbMg": ["(08.00 - 23.00) Harga", "(08.00 - 23.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Setiabudi",
-        "Nama": "Grand Futsal Kuningan",
-        "Image": "https://lh3.googleusercontent.com/proxy/c9sijqncaGJuIyzgkgZJTNPCT5l75N0OCsLUS1F4oaPKFvEip0duy0cWti65-U6JR8YAdzfg_7749U0rct0I8MylWZzw62fEy5e2Eo5T",
-        "Lokasi": "Jl. Karet Pedurenan Masjid No.45 RT.6/RW.7 Kuningan, RT.6/RW.7, Kuningan, Karet Kuningan, Kota Jakarta Selatan",
-        "Open": "07.00-24.00",
-        "NoTlp": "(021) 57853506",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 24.00) Harga",  "(07.00 - 24.00) Harga"],
-            "SbMg": ["(07.00 - 24.00) Harga",  "(07.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Setiabudi",
+		"Nama": "Planet Futsal",
+		"Image": "http://www.theplanetfutsal.com/images/stories/fotoabout.jpg",
+		"Lokasi": "Kompleks Rasuna Epicentrum Kav. C-22, Jl. H. R. Rasuna Said, RT.2/RW.5, Karet Kuningan, Kota Jakarta Selatan",
+		"Open": "08.00-24.00",
+		"NoTlp": "(021) 52920765",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
+			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Mampang",
-        "Nama": "Kick Spot Mampang Prapatan",
-        "Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/zivkiv/field/FIBO_FiIm_zivkiv_8MLgd0.jpg",
-        "Lokasi": "Jl. Kuningan Barat II No.8, RT.3/RW.2, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan",
-        "Open": "06.00-01.00",
-        "NoTlp": "(021) 52920909",
-        "HargaSewa": {
-            "SnnJmt": ["(06.00 - 01.00) Harga",  "(06.00 - 01.00) Harga"],
-            "SbMg": ["(06.00 - 01.00) Harga",  "(06.00 - 01.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Setiabudi",
+		"Nama": "Grand Futsal Kuningan",
+		"Image": "https://lh3.googleusercontent.com/proxy/c9sijqncaGJuIyzgkgZJTNPCT5l75N0OCsLUS1F4oaPKFvEip0duy0cWti65-U6JR8YAdzfg_7749U0rct0I8MylWZzw62fEy5e2Eo5T",
+		"Lokasi": "Jl. Karet Pedurenan Masjid No.45 RT.6/RW.7 Kuningan, RT.6/RW.7, Kuningan, Karet Kuningan, Kota Jakarta Selatan",
+		"Open": "07.00-24.00",
+		"NoTlp": "(021) 57853506",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"],
+			"SbMg": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Cilandak",
-        "Nama": "Cilandak Futsal",
-        "Image": "https://storage.googleapis.com/rille-prod/field-cover-picture/20190719-040818-JG6D3LV343MMKTR0SIKSFT4EMOX82ZYW.jpg",
-        "Lokasi": "Cilandak Town Square Kav 17, Jalan Terminal Bus Simatupang, RT.2/RW.1, Cilandak Barat, Cilandak, RT.2/RW.1, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan",
-        "Open": "07.00-24.00",
-        "NoTlp": "(021) 75816231",
-        "HargaSewa": {
-            "SnnJmt": ["(07.00 - 24.00) Harga",  "(07.00 - 24.00) Harga"],
-            "SbMg": ["(07.00 - 24.00) Harga",  "(07.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Mampang",
+		"Nama": "Kick Spot Mampang Prapatan",
+		"Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/zivkiv/field/FIBO_FiIm_zivkiv_8MLgd0.jpg",
+		"Lokasi": "Jl. Kuningan Barat II No.8, RT.3/RW.2, Kuningan Bar., Kec. Mampang Prpt., Kota Jakarta Selatan",
+		"Open": "06.00-01.00",
+		"NoTlp": "(021) 52920909",
+		"HargaSewa": {
+			"SnnJmt": ["(06.00 - 01.00) Harga", "(06.00 - 01.00) Harga"],
+			"SbMg": ["(06.00 - 01.00) Harga", "(06.00 - 01.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Sawah Besar",
-        "Nama": "Maestro Futsal Kemayoran",
-        "Image": "https://1.bp.blogspot.com/-T9_9OwiMPHQ/WeLbDut1GQI/AAAAAAAAACE/KMjhACihyXobmPEAHE8arGiuO5T_sge3wCLcBGAs/s1600/111217010057_maestro02.jpg",
-        "Lokasi": "Jl. Sentani No.24, RW.10, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat",
-        "Open": "08.00-24.00",
-        "NoTlp": "0812-8930-4888",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"],
-            "SbMg": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Cilandak",
+		"Nama": "Cilandak Futsal",
+		"Image": "https://storage.googleapis.com/rille-prod/field-cover-picture/20190719-040818-JG6D3LV343MMKTR0SIKSFT4EMOX82ZYW.jpg",
+		"Lokasi": "Cilandak Town Square Kav 17, Jalan Terminal Bus Simatupang, RT.2/RW.1, Cilandak Barat, Cilandak, RT.2/RW.1, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan",
+		"Open": "07.00-24.00",
+		"NoTlp": "(021) 75816231",
+		"HargaSewa": {
+			"SnnJmt": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"],
+			"SbMg": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Kemayoran",
-        "Nama": "PK Futsal",
-        "Image": "https://1.bp.blogspot.com/-t-v0ardMJ94/WeLXeEtUYHI/AAAAAAAAABg/5pXJpQIWSlEeaHpy7R48bdNDotftrRNEwCLcBGAs/s1600/lapangan_futsal11.jpeg",
-        "Lokasi": "Jl. Sentani No.24, RW.10, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat",
-        "Open": "08.00-05.00",
-        "NoTlp": "0817-0703-819",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 05.00) Harga",  "(08.00 - 05.00) Harga"],
-            "SbMg": ["(08.00 - 05.00) Harga",  "(08.00 - 05.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Sawah Besar",
+		"Nama": "Maestro Futsal Kemayoran",
+		"Image": "https://1.bp.blogspot.com/-T9_9OwiMPHQ/WeLbDut1GQI/AAAAAAAAACE/KMjhACihyXobmPEAHE8arGiuO5T_sge3wCLcBGAs/s1600/111217010057_maestro02.jpg",
+		"Lokasi": "Jl. Sentani No.24, RW.10, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat",
+		"Open": "08.00-24.00",
+		"NoTlp": "0812-8930-4888",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
+			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Cempaka Putih",
-        "Nama": "Arcici Sport Center",
-        "Image": "https://storage.googleapis.com/rille-prod/field-cover-picture/20190724-045314-KLQ20646X5G9L2R25B9GH7PWU7Q7YVOB.jpg",
-        "Lokasi": "Jl. Cempaka Putih Barat No.XXVI, RT.3/RW.7, Cemp. Putih Bar., Kec. Cemp. Putih, Kota Jakarta Pusat",
-        "Open": "06.00-22.00",
-        "NoTlp": "0817-0703-819",
-        "HargaSewa": {
-            "SnnJmt": ["(06.00 - 22.00) Harga",  "(06.00 - 22.00) Harga"],
-            "SbMg": ["(06.00 - 22.00) Harga",  "(06.00 - 22.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Kemayoran",
+		"Nama": "PK Futsal",
+		"Image": "https://1.bp.blogspot.com/-t-v0ardMJ94/WeLXeEtUYHI/AAAAAAAAABg/5pXJpQIWSlEeaHpy7R48bdNDotftrRNEwCLcBGAs/s1600/lapangan_futsal11.jpeg",
+		"Lokasi": "Jl. Sentani No.24, RW.10, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat",
+		"Open": "08.00-05.00",
+		"NoTlp": "0817-0703-819",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 05.00) Harga", "(08.00 - 05.00) Harga"],
+			"SbMg": ["(08.00 - 05.00) Harga", "(08.00 - 05.00) Harga"]
 
-        }
-    }
-{
-        "Wilayah": "Tanah Abang",
-        "Nama": "Indo Futsal",
-        "Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/zjinis/field/FIBO_FiIm_zjinis_Twhc7W.jpg",
-        "Lokasi": "Jl. Palmerah Barat No.4, RT.1/RW.2, Gelora, Tanahabang, Kota Jakarta Pusat",
-        "Open": "08.00-24.00",
-        "NoTlp": "(021) 5483311",
-        "HargaSewa": {
-            "SnnJmt": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"],
-            "SbMg": ["(08.00 - 24.00) Harga",  "(08.00 - 24.00) Harga"]
+		}
+	}, {
+		"Wilayah": "Cempaka Putih",
+		"Nama": "Arcici Sport Center",
+		"Image": "https://storage.googleapis.com/rille-prod/field-cover-picture/20190724-045314-KLQ20646X5G9L2R25B9GH7PWU7Q7YVOB.jpg",
+		"Lokasi": "Jl. Cempaka Putih Barat No.XXVI, RT.3/RW.7, Cemp. Putih Bar., Kec. Cemp. Putih, Kota Jakarta Pusat",
+		"Open": "06.00-22.00",
+		"NoTlp": "0817-0703-819",
+		"HargaSewa": {
+			"SnnJmt": ["(06.00 - 22.00) Harga", "(06.00 - 22.00) Harga"],
+			"SbMg": ["(06.00 - 22.00) Harga", "(06.00 - 22.00) Harga"]
 
-        }
-    }
+		}
+	}, {
+		"Wilayah": "Tanah Abang",
+		"Nama": "Indo Futsal",
+		"Image": "https://s3-ap-southeast-1.amazonaws.com/fibostorage/venue_file/zjinis/field/FIBO_FiIm_zjinis_Twhc7W.jpg",
+		"Lokasi": "Jl. Palmerah Barat No.4, RT.1/RW.2, Gelora, Tanahabang, Kota Jakarta Pusat",
+		"Open": "08.00-24.00",
+		"NoTlp": "(021) 5483311",
+		"HargaSewa": {
+			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
+			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+
+		}
+	}
 
 
 ]
