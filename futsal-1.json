@@ -17,14 +17,14 @@
 		"Nama": "Viva Futsal Cengkareng",
 		"Image": "https://4.bp.blogspot.com/-wEZD4eSayYI/Vl_A7S1xhDI/AAAAAAAALPw/KFcFEmo2M4c/s1600/IMG_7868.JPG",
 		"Lokasi": "Jl. Kemuning Raya, RT.1/RW.11, Cengkareng Bar., Kecamatan Cengkareng, Kota Jakarta Barat",
-		"Open": "Meowsy",
+		"Open": "6AM–12AM",
 		"NoTlp": "0088133333",
 		"HargaSewa": {
-			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
-			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": "Bagus cuma tolong rumputnya di ratakan lagi dilapangan 2"
 
 	},
 	{
@@ -35,11 +35,11 @@
 		"Open": "Meowsy",
 		"NoTlp": "00881233333",
 		"HargaSewa": {
-			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
-			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 55.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 70.000", "(13.00 - 16.00) Rp. 90.000", "(16.00 - 24.00) Rp. 100.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	},
 	{
 		"Wilayah": "Cengkareng",
@@ -49,11 +49,11 @@
 		"Open": "Meowsy",
 		"NoTlp": "0856-5708-81611",
 		"HargaSewa": {
-			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
-			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	},
 	{
 		"Wilayah": "Cengkareng",
@@ -63,8 +63,8 @@
 		"Open": "08.00-22.00",
 		"NoTlp": "(021)-54381090",
 		"HargaSewa": {
-			"SnnJmt": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"],
-			"SbMg": ["(07.00 - 15.00) Harga", "(15.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -76,11 +76,11 @@
 		"Open": "07.00-23.00",
 		"NoTlp": "085100922747",
 		"HargaSewa": {
-			"SnnJmt": ["(07.00 - 23.00) Harga", "(07.00 - 23.00) Harga"],
-			"SbMg": ["(07.00 - 23.00) Harga", "(07.00 - 23.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": "Bagus cuma tolong rumputnya di ratakan lagi dilapangan 2"
 	}, {
 		"Wilayah": "Jatinegara",
 		"Nama": "Goedang Futsal",
@@ -89,11 +89,11 @@
 		"Open": "08.00-24.00",
 		"NoTlp": "(021) 8509394",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
-			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": "Bagus cuma tolong rumputnya di ratakan lagi dilapangan 2"
 	}, {
 		"Wilayah": "Kramat Jati",
 		"Nama": "Best Futsal Sport Center",
@@ -102,8 +102,8 @@
 		"Open": "09.00-22.00",
 		"NoTlp": "(021) 80872676",
 		"HargaSewa": {
-			"SnnJmt": ["(09.00 - 22.00) Harga", "(09.00 - 22.00) Harga"],
-			"SbMg": ["(09.00 - 22.00) Harga", "(09.00 - 22.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -115,8 +115,8 @@
 		"Open": "09.00-23.00",
 		"NoTlp": "(021) 8724732",
 		"HargaSewa": {
-			"SnnJmt": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"],
-			"SbMg": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -128,8 +128,8 @@
 		"Open": "08.00-24.00",
 		"NoTlp": "0838-0890-7281",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
-			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -141,8 +141,8 @@
 		"Open": "09.00-23.00",
 		"NoTlp": "(021) 8626087",
 		"HargaSewa": {
-			"SnnJmt": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"],
-			"SbMg": ["(09.00 - 23.00) Harga", "(09.00 - 23.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -154,8 +154,8 @@
 		"Open": "08.00-24.00",
 		"NoTlp": "(021) 51205029",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
-			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -167,8 +167,8 @@
 		"Open": "08.00-24.00",
 		"NoTlp": "(021) 91274124",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
-			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -180,8 +180,8 @@
 		"Open": "08.00-23.00",
 		"NoTlp": "(021) 7263030",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 23.00) Harga", "(08.00 - 23.00) Harga"],
-			"SbMg": ["(08.00 - 23.00) Harga", "(08.00 - 23.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
 	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
@@ -193,11 +193,11 @@
 		"Open": "08.00-24.00",
 		"NoTlp": "(021) 52920765",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
-			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 13.00) Rp. 45.000", "(13.00 - 16.00) Rp. 45.000", "(16.00 - 24.00) Rp. 50.000"],
+			"SbMg": ["(07.00 - 13.00) Rp. 60.000", "(13.00 - 16.00) Rp. 60.000", "(16.00 - 24.00) Rp. 70.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	}, {
 		"Wilayah": "Setiabudi",
 		"Nama": "Grand Futsal Kuningan",
@@ -206,11 +206,11 @@
 		"Open": "07.00-24.00",
 		"NoTlp": "(021) 57853506",
 		"HargaSewa": {
-			"SnnJmt": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"],
-			"SbMg": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": "Bagus cuma tolong rumputnya di ratakan lagi dilapangan 2"
 	}, {
 		"Wilayah": "Mampang",
 		"Nama": "Kick Spot Mampang Prapatan",
@@ -219,11 +219,11 @@
 		"Open": "06.00-01.00",
 		"NoTlp": "(021) 52920909",
 		"HargaSewa": {
-			"SnnJmt": ["(06.00 - 01.00) Harga", "(06.00 - 01.00) Harga"],
-			"SbMg": ["(06.00 - 01.00) Harga", "(06.00 - 01.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	}, {
 		"Wilayah": "Cilandak",
 		"Nama": "Cilandak Futsal",
@@ -232,11 +232,11 @@
 		"Open": "07.00-24.00",
 		"NoTlp": "(021) 75816231",
 		"HargaSewa": {
-			"SnnJmt": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"],
-			"SbMg": ["(07.00 - 24.00) Harga", "(07.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	}, {
 		"Wilayah": "Sawah Besar",
 		"Nama": "Maestro Futsal Kemayoran",
@@ -245,11 +245,11 @@
 		"Open": "08.00-24.00",
 		"NoTlp": "0812-8930-4888",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
-			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	}, {
 		"Wilayah": "Kemayoran",
 		"Nama": "PK Futsal",
@@ -258,11 +258,11 @@
 		"Open": "08.00-05.00",
 		"NoTlp": "0817-0703-819",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 05.00) Harga", "(08.00 - 05.00) Harga"],
-			"SbMg": ["(08.00 - 05.00) Harga", "(08.00 - 05.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	}, {
 		"Wilayah": "Cempaka Putih",
 		"Nama": "Arcici Sport Center",
@@ -271,11 +271,11 @@
 		"Open": "06.00-22.00",
 		"NoTlp": "0817-0703-819",
 		"HargaSewa": {
-			"SnnJmt": ["(06.00 - 22.00) Harga", "(06.00 - 22.00) Harga"],
-			"SbMg": ["(06.00 - 22.00) Harga", "(06.00 - 22.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	}, {
 		"Wilayah": "Tanah Abang",
 		"Nama": "Indo Futsal",
@@ -284,11 +284,11 @@
 		"Open": "08.00-24.00",
 		"NoTlp": "(021) 5483311",
 		"HargaSewa": {
-			"SnnJmt": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"],
-			"SbMg": ["(08.00 - 24.00) Harga", "(08.00 - 24.00) Harga"]
+			"SnnJmt": ["(07.00 - 15.00) Rp. 50.000", "(15.00 - 24.00) Rp. 60.000"],
+			"SbMg": ["(07.00 - 15.00) Rp. 70.000", "(15.00 - 24.00) Rp. 80.000"]
 
 		},
-	"Note": "Rumput bagus, lapangan bagus, hanya sirkulasi udara saja yg menurut saya kurang. Harga cukup lumayan pas sama fasilitas"
+	"Note": ""
 	}
 
 
